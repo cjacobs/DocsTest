@@ -1,8 +1,8 @@
 ---
 layout: post
-title: foobar
+title: Index
 ---
 
-# Post
+# Index.md
 
 ## foobar
